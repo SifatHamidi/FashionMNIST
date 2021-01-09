@@ -1,4 +1,3 @@
-
 FashionMNIST dataset hase almost 10 labels. The features with corresponding levels are shown below for testing purposes.
 Label	Description
 0	T-shirt/top
